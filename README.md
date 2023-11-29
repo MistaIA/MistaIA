@@ -4,7 +4,7 @@
 ## I am Ismaël
 
 A bit about myself:
-- 🔭 I’m currently witch crafting Backends w/ Python
+- 🔭 I’m currently witchcrafting Backends w/ Python
 - 🌱 I’m learning Cloud-based solutions for B2B, etc.
 - 👯 I’m open to collaboration
 - 🤔 I’m looking for help to cook that potion
