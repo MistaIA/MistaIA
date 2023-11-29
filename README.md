@@ -26,7 +26,7 @@ A bit about myself:
 ## Languages and Tools
 
 <div>
-  <a href="https://duckduckgo.com/?q=C%2B%2B&ia=web"><img width=40 alt="C++" src="./assets/C++_logo.svg"/></a>
+  <a href="https://duckduckgo.com/?q=C%2B%2B&ia=web"><img width=40 alt="C++" src="./assets/Cpp_Logo.svg"/></a>
   <a href="https://github.com/carbon-language"><img width=40 alt="Carbon" src="./assets/carbon.png"/></a>
   <a href="https://www.rust-lang.org/"><img width=50 alt="Rust" src="./assets/cuddlyferris.svg"/></a>
   <a href="https://www.python.org/"><img width=40 alt="Python" src="./assets/python.png"/></a>
